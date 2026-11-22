@@ -1,0 +1,17 @@
+{
+  "name": "indahl-clause",
+  "owner": {
+    "name": "Heuremen LLC",
+    "url": "https://indahl.ai"
+  },
+  "plugins": [
+    {
+      "name": "indahl-clause",
+      "source": "./",
+      "description": "Check the sentences that report a result for wording that claims more than the comparison showed. Returns each sentence as KEEP or REWORD with the exact replacement. Use on results sections, eval write-ups and summaries. Runs inside your session.",
+      "version": "1.0.0",
+      "category": "research",
+      "homepage": "https://indahl.ai/standard"
+    }
+  ]
+}
